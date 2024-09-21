@@ -30,4 +30,5 @@
 
 @property(nonatomic, assign, readonly) BOOL isSuccessfulFormatting;
 
-@end
+@end(NSInteger)getRememberedPosition;
+
